@@ -7,3 +7,6 @@ Windows + Python 3.6
 3. 进入城市漫步
 4. 运行 EvolWalker.py
 5. 使用 Ctrl+C 可结束程序
+
+## 下载
+[Github Release](https://github.com/ctrysbita/EvolWalker/releases)
